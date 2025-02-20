@@ -1,6 +1,9 @@
 Project: BotaniQuest
 team PRORIVALS
-Members: Damir Mazare
+
+Clubul Copiilor sect 5 , Bucuresti
+Prof. Gheorghiu Oana Daniela ,Cercul de Matematica aplicata
+Members: Damir Mazare-- clasa 4
 The pitch
 https://youtu.be/DHLpMI3oCiA
 demo
